@@ -1,0 +1,15 @@
+{
+  "name": "calcula",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "lab -v"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "code": "^4.0.0",
+    "lab": "^13.0.4"
+  }
+}
